@@ -1,0 +1,5 @@
+This is just a small file talking about the first chapter.
+
+There were some difficult parts to the puzzles, but I managed to get around it. It seemed straight forward at first but I eventually reread it and tried the excercises.
+
+I learned more about the mechanics of Java and how the process is going from Java source code, onto a compiler into Java bytecode and is ran on a Java Virtual Machine.
