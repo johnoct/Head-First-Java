@@ -1,0 +1,9 @@
+Chapter two was about objects. It really gave me a run down of the basics of Objects and Classes and the mechanics behind it.
+
+Class = Blueprint
+
+Objects = running instances of those Classes
+
+Instance Variables = States inside the Objects
+
+Methods = Behavior and actions the Objects can do
