@@ -1,0 +1,11 @@
+Refelection:
+
+basically there are two types of variables: primitive and reference variables
+
+primitive variables are :
+    - Be Careful! Bears Shouldnt Injest Large Furry Dogs
+    - Boolean Char Byte Short Int Long Float Double
+
+reference variables are :
+    references to a type of variable or (not a pointer) but a reference to where the object is in the garabe collectible heap
+
