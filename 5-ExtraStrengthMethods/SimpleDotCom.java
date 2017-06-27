@@ -1,7 +1,10 @@
 public class SimpleDotCom{
     private int[] locationCells;
-    private int numOfHits;
+    private int numOfHits = 0;
 
+    public void setLocationCells(int[] locs){
+        locationCells = locs;
+    }
     public String checkYourself(String guess){
         //Convert the string to an integer
         //Integer is a class that ships with Java
