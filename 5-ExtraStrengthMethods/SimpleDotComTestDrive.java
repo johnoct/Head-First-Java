@@ -5,15 +5,15 @@ public class SimpleDotComTestDrive{
 
         // Test an array of integers and pass on to SimpleDotCom Java
         int[] locations = {2,3,4};
-        dot.setLocationCells(locations);
+        game.setLocationCells(locations);
 
         String userGuess = "2";
 
-        String result = dot.checkYourself(userGuess);
+        String result = game.checkYourself(userGuess);
 
         String testResult = "failed";
 
-        if (result.equlis ("hit")){
+        if (result.equals ("hit")){
             testResult = "passed";
         }
 

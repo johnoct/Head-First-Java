@@ -5,7 +5,7 @@ public class SimpleDotCom{
     public void setLocationCells(int[] locs){
         locationCells = locs;
     }
-    public String checkYourself(String guess){
+    public String checkYourself(String stringGuess){
         //Convert the string to an integer
         //Integer is a class that ships with Java
         //parseInt is a method in the Integer class that knows how to parse a string to its integer equivalent"
