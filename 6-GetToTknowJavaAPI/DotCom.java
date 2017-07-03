@@ -4,9 +4,12 @@ import com.sun.org.apache.bcel.internal.generic.L2D;
 
 public class DotCom{
 
+    private String name;                        //Name of the DotCom
     private ArralyList<String> locationCells;
-    // int[] locationCells;
-    // int numOfHits;
+
+    public void setName(String name){
+        this.name = name;
+    }
 
     public void setLocationCells(ArrayList<String> loc){
         locationCells = loc;
